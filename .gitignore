@@ -1,0 +1,41 @@
+# Common
+.env
+.env.local
+.DS_Store
+*.log
+uploads/
+
+# Backend (Maven/Spring)
+backend/target/
+backend/pom.xml.tag
+backend/pom.xml.releaseBackup
+backend/pom.xml.versionsBackup
+backend/pom.xml.next
+backend/release.properties
+backend/dependency-reduced-pom.xml
+backend/buildNumber.properties
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/.DS_Store
+backend/.project
+backend/.classpath
+backend/.settings/
+backend/bin/
+backend/.idea/
+backend/*.iml
+
+# Frontend (Vue/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/.local
+frontend/.DS_Store
+frontend/.vscode/
+frontend/.idea/
+
+# Database data (mounted volumes)
+pgdata/
+redisdata/

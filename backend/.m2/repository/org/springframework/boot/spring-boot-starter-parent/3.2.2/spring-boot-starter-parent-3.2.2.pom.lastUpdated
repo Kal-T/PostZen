@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 03 23:19:52 JST 2026
+5e09a4963cfe68500d6fdb932413d8f038b2ed98@default-pjv-https\://bwc-dev-nexus.aws06.pieisjv.cloud/repository/PJV/.lastUpdated=1770128392525
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1770128392535
+https\://bwc-dev-nexus.aws06.pieisjv.cloud/repository/PJV/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.2.2 from/to pjv (https\://bwc-dev-nexus.aws06.pieisjv.cloud/repository/PJV/)\: bwc-dev-nexus.aws06.pieisjv.cloud\: nodename nor servname provided, or not known
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.2.2 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: nodename nor servname provided, or not known
